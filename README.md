@@ -5,6 +5,12 @@
 ### 2. Thông tin các gói cước đang có cần lắp đặt.
 <img width="1285" height="833" alt="image" src="https://github.com/user-attachments/assets/f574d1d3-2382-4a2a-b061-d6d26ba8d58e" />
 ### 3. Nhận tài khoản Mikrotik từ công ty để kiểm soát thông tin tài khoản lắp đặt ( tạo tk phòng cần lắp, trạng thái mạng, gói cước đang sử dụng).
+1. Cân bằng tải CCR2004-1G-12S+2  S 
+<img width="1758" height="746" alt="image" src="https://github.com/user-attachments/assets/28b2fa08-da46-4651-bb8f-05bd5b6a7479" />
+3. Tài khoản mikrotik
+<img width="1284" height="2778" alt="1793175027623_143918945852971302_5181978411403414067_54c61460dbe1cfcad6ce2909bce012e3" src="https://github.com/user-attachments/assets/360a19a4-ccd2-448e-864c-b69844c2183c" />
+<img width="1284" height="2778" alt="1793175027648_143918945852971302_5181978411403414067_1e317fce218012ed3cdda8066f979ec4" src="https://github.com/user-attachments/assets/b414081f-4401-4fd0-9e76-0a5a8b867bcb" />
+<img width="1284" height="2778" alt="1793175027664_143918945852971302_5181978411403414067_3e3a36e255e601c66f666e5d01a05bfd" src="https://github.com/user-attachments/assets/91e7ac2b-935d-4735-acc5-93d742766dfb" />
 
 # TUẦN 2
   - Thiết kế CSDL **WifiBaoAn**   
